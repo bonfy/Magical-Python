@@ -61,7 +61,7 @@ We keep repeating the steps again, alternating left to right and right to left, 
 Find the last number that remains starting with a list of length n.
 
 Example:
-
+```
 Input:
 n = 9,
 1 2 3 4 5 6 7 8 9
@@ -71,7 +71,7 @@ n = 9,
 
 Output:
 6
-
+```
 
 ```python
 class Solution(object):
