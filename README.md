@@ -85,3 +85,5 @@ class Solution(object):
             nums = nums[1::2][::-1]
         return nums[0]
 ```
+
+Nice code , but... Time Limit Exceeded ,Last executed input: 100000000  
